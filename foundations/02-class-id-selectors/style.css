@@ -1,0 +1,24 @@
+.oddnumbers{
+    background-color: #FFCCCB;
+    font-family: verdana, DejaVu Sans, serif;
+
+}
+
+/* .changefont{
+    font-size: 24px;
+} */
+
+#change-font{
+    font-size: 24px;
+}
+
+#evennumber2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#evennumber4{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
